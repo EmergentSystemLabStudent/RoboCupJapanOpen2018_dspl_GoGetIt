@@ -1,0 +1,76 @@
+0	[Follow-Me]	f o r o m i:
+0	[Stop-Follow-Me]	s u t o p u f o r o m i:
+0	[Start-Position-Is-Here]	s u t a: t o p o j i sh o N i z u h i a:
+0	[Yes]	i e s u
+0	[No]	n o:
+0	[Return-To-Start-Position]	r i t a: N t o: s u t a: t o p o j i sh o N
+0	[Learn-Spatial-Concept]	r a: N s u p e i sh a r u k o N s e p u t o
+1	[Bring-Me-]	b u r i N g u m i:
+2	[In-]	i N
+2	[From-]	f u r o m u
+2	[In-Front-Of-]	i N f u r o N t o o b u
+3	[The-]	z a
+4	[A-]	a
+5	[An-]	a N
+6	[Here-Is-]	h i a i z u
+7	[Bathroom]	b a s u r u: m u
+7	[Bar]	b a:
+7	[Bedroom]	b e q d o r u: m u
+7	[Bedroom]	b e q d o r u: m u
+7	[Bed]	b e q d o
+7	[Bedside]	b e q d o s a i d o
+7	[Bookcase]	b u q k u k e i s u
+7	[Book-Shelf]	b u q k u sh e r u f u
+7	[Cabinet]	ky a b i n e q t o
+7	[Campus]	ky a N p a s u
+7	[Center-Table]	s e N t a: t e: b u r u
+7	[Childroom]	ch a i r u d o r u: m u
+7	[Corridor]	k o r i d o:
+7	[Counter]	k a u N t a:
+7	[Cupboard]	k a q p u b o: d o
+7	[Drawer]	d o r o w a:
+7	[Desk]	d e s u k u
+7	[Dining-Table]	d a i n i N g u t e: b u r u
+7	[Fridge]	f u r i q j i
+7	[Kitchen]	k i q ch i N
+7	[Living-Room]	r i b i N g u r u: m u
+7	[Living-Space]	r i b i N g u s u p e: s u
+7	[Living-Shelf]	r i b i N g u sh e r u f u
+7	[Living-Table]	r i b i N g u t e: b u r u
+7	[Sink]	s i N k u
+7	[Side-Shelf]	s a i d o sh e r u f u
+7	[Sofa]	s o f a:
+7	[Trash]	t o r a sh u
+7	[TV-Stand]	t i: b i: s u t a N d o
+7	[TV]	t i: b i:
+7	[Office]	o f i s u
+8	[Chips]	ch i q p u s u
+8	[Senbei]	s e N b e:
+8	[Pringles]	p u r i N g u r u s u
+8	[Peanuts]	p i: n a q ts u
+8	[Chocolate-Bar]	ch o k o r e i t o b a:
+8	[Manju]	m a N j u:
+8	[Mints]	m i N ts u
+8	[Chocolate-Egg]	ch o k o r e i t o e q g u
+8	[Noodles]	n u: d o r u z u
+8	[Apple]	a q p u r u
+8	[Paprika]	p a p u r i k a
+8	[Watermelon]	w o: t a: m e r o N
+8	[Sushi]	s u sh i
+8	[Tea]	t i:
+8	[Beer]	b i a:
+8	[Coke]	k o: k u
+8	[Sake]	s a k e
+8	[Shampoo]	sh a N p u:
+8	[Soap]	s u: p u
+8	[Cloth]	k u r o s u
+8	[Sponge]	s u p u: N
+8	[Bowl]	b o u r u
+8	[Tray]	t o r e i
+8	[Candies]	ky a N d e: z u
+8	[Drinks]	d o r i N k u s u
+8	[Toiletries]	t o i r e q t o r i: z u
+8	[Container]	k o N t e n a:
+8	[Plate]	p u r e i t o
+9	[silB]	silB
+10	[silE]	silE

@@ -1,0 +1,88 @@
+% COMMAND
+Follow-Me	f o r o m i:
+Stop-Follow-Me	s u t o p u f o r o m i:
+Start-Position-Is-Here	s u t a: t o p o j i sh o N i z u h i a:
+Yes	i e s u
+No	n o:
+Return-To-Start-Position	r i t a: N t o: s u t a: t o p o j i sh o N
+Learn-Spatial-Concept	r a: N s u p e i sh a r u k o N s e p u t o
+% BRING
+Bring-Me-	b u r i N g u m i:
+% ADJ
+In-	i N
+From-	f u r o m u
+In-Front-Of-	i N f u r o N t o o b u
+% THE
+The-	z a
+% A
+A-	a
+% AN
+An-	a N
+% HERE
+Here-Is-	h i a i z u
+% PLACE
+Bathroom	b a s u r u: m u
+Bar	b a:
+Bedroom	b e q d o r u: m u
+Bedroom	b e q d o r u: m u
+Bed	b e q d o
+Bedside	b e q d o s a i d o
+Bookcase	b u q k u k e i s u
+Book-Shelf	b u q k u sh e r u f u
+Cabinet ky a b i n e q t o
+Campus	ky a N p a s u
+Center-Table	s e N t a: t e: b u r u
+Childroom	ch a i r u d o r u: m u
+Corridor	k o r i d o:
+Counter	k a u N t a:
+Cupboard	k a q p u b o: d o
+Drawer	d o r o w a:
+Desk	d e s u k u
+Dining-Table	d a i n i N g u t e: b u r u
+Fridge	f u r i q j i
+Kitchen	k i q ch i N
+Living-Room	r i b i N g u r u: m u
+Living-Space	r i b i N g u s u p e: s u
+Living-Shelf	r i b i N g u sh e r u f u
+Living-Table	r i b i N g u t e: b u r u
+Sink	s i N k u
+Side-Shelf	s a i d o sh e r u f u
+Sofa	s o f a:
+Trash	t o r a sh u
+TV-Stand	t i: b i: s u t a N d o
+TV	t i: b i:
+Office	o f i s u
+% OBJECT
+Chips	ch i q p u s u
+Senbei	s e N b e:
+Pringles	p u r i N g u r u s u
+Peanuts	p i: n a q ts u
+Chocolate-Bar	ch o k o r e i t o b a:
+Manju	m a N j u:
+Mints	m i N ts u
+Chocolate-Egg	ch o k o r e i t o e q g u
+Noodles	n u: d o r u z u
+Apple	a q p u r u
+Paprika	p a p u r i k a
+Watermelon	w o: t a: m e r o N
+Sushi	s u sh i
+Tea	t i:
+Beer	b i a:
+Coke	k o: k u
+Sake	s a k e
+Shampoo	sh a N p u:
+Soap	s u: p u
+Cloth	k u r o s u
+Sponge	s u p u: N
+Bowl	b o u r u
+Tray	t o r e i
+Candies	ky a N d e: z u
+Drinks	d o r i N k u s u
+Toiletries	t o i r e q t o r i: z u
+Container	k o N t e n a:
+Plate	p u r e i t o
+## –³‰¹—pƒGƒ“ƒgƒŠ
+% NS_B			# •¶“ª–³‰¹
+silB	silB
+% NS_E			# •¶–––³‰¹
+silE	silE

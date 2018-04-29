@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<launch>
+    <include file="$(find em_door_open)/launch/em_door_open.launch" />
+    <include file="$(find em_active_slam)/launch/em_active_slam.launch" />
+    <include file="$(find em_spco_formation)/launch/em_spco_formation.launch" />
+    <include file="$(find em_follow_me)/launch/em_follow_me.launch" />
+    <include file="$(find em_speech)/launch/em_speech.launch" />
+    <node name="em_path_plan" pkg="em_spco_formation" type="em_path_plan.py" output="screen" cwd="node" >
+        <remap from="map" to="/update_map"/>
+    </node>
+    <node name="em_name2place" pkg="em_spco_formation" type="em_name2place.py" output="screen" cwd="node" />
+    <node name="em_go_get_it_main" pkg="em_go_get_it" type="em_go_get_it.py" output="screen" cwd="node" >
+        <remap from="map" to="/update_map"/>
+    </node>
+</launch>
