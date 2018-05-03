@@ -3,7 +3,9 @@
 
 ### Overview  
 
-Go get it task for Dockers2018 in RoboCup Japan Open 
+Go get it task for Duckers2018 in RoboCup Japan Open 
+
+URL : https://emlab.jimdo.com/multimedia/ 
 
 Training Phaseにおいて，ロボットが自律移動しながら地図生成を行い，その後オペレータをFollow meしながら，場所の名前情報を教示してもらうことで，マルチモーダル情報から場所のカテゴリゼーションを行う． 
 
